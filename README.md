@@ -1,2 +1,2 @@
 # Project-Platforms
-#This is my first actual created game aside from class work
+#This is my first created project outside from class work
